@@ -1,2 +1,2 @@
 # Bonx
-The video editing software for Bonon
+The video editing software for Bonbon
